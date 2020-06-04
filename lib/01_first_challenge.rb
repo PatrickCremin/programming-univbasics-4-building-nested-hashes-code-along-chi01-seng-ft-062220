@@ -1,4 +1,4 @@
-def first_challenge
+def first_challenge(key, value)
   epic_tragedy = {
   :montague => {
     :patriarch => {
