@@ -6,7 +6,7 @@ def third_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         {name: "Benvolio" , age: "17" , status: "worried"},
-        
+        {name: "Mercutio" , age: "18" , status: "hot-headed"}
         ]
    },
    :capulet => {
