@@ -1,6 +1,7 @@
 def second_challenge
   :montague => {
-      :patriarch => {},
+      :patriarch => {:name => "Lord Montague",
+      :age => "53"},
       :matriarch => {},
       :hero => {},
       :hero_friends => []
