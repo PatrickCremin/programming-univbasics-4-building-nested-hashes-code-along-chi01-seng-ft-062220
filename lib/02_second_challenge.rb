@@ -14,11 +14,9 @@ def second_challenge
       :age => "15"
   },
   :hero_friends => [
-      {
          :name => "Benvolio",
          :age => "17",
          :attitude => "worried"
-      }
       ]
     },
     :capulet => {
@@ -40,7 +38,6 @@ def second_challenge
         :name => "Steven",
         :age => "30",
         :attitude => "confused"
-      }
       ]
       }
   }
