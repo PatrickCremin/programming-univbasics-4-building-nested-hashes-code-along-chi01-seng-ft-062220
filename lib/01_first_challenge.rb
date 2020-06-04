@@ -1,4 +1,5 @@
-  epic_tragedy = {
+def first_challenge(montague, capulet)
+   epic_tragedy = {
   :montague => {
     :patriarch => {
       :name => "Lord Montague",
@@ -53,4 +54,3 @@
     ]
   }
 }
-end
