@@ -22,8 +22,26 @@ def second_challenge
       ]
     },
     :capulet => {
-      #your key/value pairs here!
-      }}
-
-  
+      :patriarch => {
+      :name => "Lord Capulet",
+      :age => "50"
+    },
+    :matriarch => {
+      :name => "Lady Capulet",
+      :age => "51"
+    },
+    :heroine => {
+      :name => "Juliet",
+      :age => "15",
+      :status => "alive"
+    },
+    :heroine_friends=> [
+      {
+        :name => "Steven",
+        :age => "30",
+        :attitude => "confused"
+      }
+      ]
+      }
+  }
 end
